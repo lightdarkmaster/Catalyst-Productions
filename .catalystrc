@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "28025000000493003",
+      "name": "Devtac-Viber-Messaging",
+      "domain": {
+        "id": "10127812192",
+        "name": "devtac-viber-messaging-884740575.development"
+      },
+      "timezone": "Asia/Manila",
+      "env": [
+        {
+          "idx": 1,
+          "id": "884740575",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}

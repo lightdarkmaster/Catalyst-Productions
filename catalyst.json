@@ -1,0 +1,19 @@
+{
+  "functions": {
+    "targets": [
+      "devtac_viber_messaging_function",
+      "generatezohocatalystaccesstoken",
+      "storeclientinfo",
+      "updateclientstatus",
+      "storedevtacmessagelog",
+      "sendmessagerequesttoprovider",
+      "updateclientrecord",
+      "syncrecordupdatestoclient"
+    ],
+    "ignore": [],
+    "source": "functions"
+  },
+  "client": {
+    "source": "client"
+  }
+}

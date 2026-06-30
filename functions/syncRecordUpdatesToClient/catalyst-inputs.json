@@ -1,0 +1,43 @@
+{
+  "test_event_cache_put": {
+    "rule_id": "866876971312794263",
+    "target_id": "50094832",
+    "version": 1,
+    "attempt": 1,
+    "account": {
+      "org_id": "884740575",
+      "project": {
+        "environment": "Development",
+        "name": "Devtac-Viber-Messaging",
+        "id": "28025000000493003"
+      }
+    },
+    "events": [
+      {
+        "data": {
+          "cache_name": "449b13",
+          "cache_value": "b425e2d8d0",
+          "project_details": {
+            "project_name": "Devtac-Viber-Messaging",
+            "id": "28025000000493003",
+            "project_type": "Live"
+          },
+          "segment_details": {
+            "segment_name": "Default",
+            "id": "28025000000493021"
+          },
+          "expiry_in_hours": 14,
+          "expires_in": "Jul 01, 2026 10:51 AM",
+          "ttl_in_milliseconds": "50400000"
+        },
+        "id": "2ee1fe5a-bf9b-1692-3a3e-df6785d1e78",
+        "time_in_ms": "1782823907813",
+        "source": "publisher_id:28656660276993256/service:cloudscalecache/account:23949420",
+        "event_config": {
+          "api_name": "cache_item_created",
+          "id": "90974514504675266"
+        }
+      }
+    ]
+  }
+}
